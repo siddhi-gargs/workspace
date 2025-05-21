@@ -1,0 +1,17 @@
+1. I did not build the things parallel
+2. Did attack the right problem  my goal was to solve the problem
+3. Again I was thinking very narrowly means I was keeping if checks which was anyway not good instead if taking  a step back I was keep adding the condition
+4. I was just adding function but it was still not very abstract 
+5. I just start doing instead of asking enough questions like from where I should start and why
+6. I did not make enough diagram to understand flow easily
+7. Again  I start with the prompt by thing it will be quick and not figure out that it is taking more time
+8. Writing test cases is really very helpful you can test same thing 100 times
+9. I had the task thing I did not use the resources properly
+10. I was not actually sure what was the contract between client and server
+
+
+
+Hey I am learning networking  means how to communicate between client and server so far I am only working with deno I am listening and connecting and building connection over tcp now with the agreement of sending data in form of json now I want to receive data as http package with the help of deno in specific port no on any giving file. I have. Make my own request header and send it and I will get data on form of html/text
+
+Hey I am leaning how to make client server with the help of deno how they make tcp connection and how can sever take the client request and make it json can do processing and again can send it in json stringify so basically  I want to say that I learned how to make the contract between them that they will pass the Data in form of json and server will calculate something and return something and if their is invalid argument  in that return an error like that i want you to give me a similar problem statement so i can practice and you problem statement should be very clear
+i want you to give me a similar problem statement so i can practice and you problem statement should be very clear

@@ -1,0 +1,13 @@
+1.  We need gameMap for whole routes do we already have
+2.  Do we already ave the gameMap of our whole 200 station or do we need to make it manually
+    As you all know there in the map there are some transport are available but in the map we don’t have the route so it can be a little inconsistent so the easy thing will be make the modifications in the game  
+     map instead of changing our svg map.
+
+3.  Our whole map should come on the screen we won’t need to scroll it down to see the bottom right stations
+4.  We will have the zoomIn and zoom out feature
+5.  All player stats should be together
+6.  We Have to decide that do we have to explicitly should the log of myX in the end
+7.  Choose the no of players with four I will show the all possible game over condition
+
+I want you to generate the slides for how should the Scotland Yard board game should look like you have to include all the things like how can I put their badges how can I show their tickets remaining ticket
+of each of the players and all the other things which you should think it should be there

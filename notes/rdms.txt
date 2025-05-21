@@ -1,0 +1,26 @@
+SELECT SUM(quantity) FROM sales 
+GROUP BY product_id
+
+I thought that product_id will be  primary key and I can’t group by on product_id
+
+SELECT AVG(SALARY) AS depart_AVGSALARY 
+FROM employees
+GROUP BY department_id
+
+In further question you can add further clause also 
+
+SELECT SUM(quantity), product_id
+FROM sales
+HAVING EXTRACT(YEAR FROM sale_date) = 2024
+GROUP BY product_id ;
+
+SELECT  COUNT(order_id) AS noOfOrders FROM orders 
+GROUP BY customer_id;
+
+SELECT customer_id, SUM(purchase_amount) FROM orders
+GROUP BY customer_id
+
+SELECT  customers.customerName, orders.OrdersID, Orders.ordersDate
+FROM  Customers
+LEFT JOIN Orders On  Customers.CustomersId = Orders.OrderId
+Order By Customers.CustomerName
