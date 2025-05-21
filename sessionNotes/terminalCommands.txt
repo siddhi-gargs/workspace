@@ -1,0 +1,6 @@
+chaining commands (&&)
+  - execute multiple commands sequentially
+conditionally execution (||)
+
+check is last process exited gracefully or not 
+   -echo ($?)

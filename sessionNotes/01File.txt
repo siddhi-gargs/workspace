@@ -1,0 +1,5 @@
+jot (can accept 3 arguments)
+  - _reps start end (2 1 10)
+  - (-r 4) - will give 4 random number
+  - (-b word noOftimes) want to repeat
+  - ()

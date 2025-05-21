@@ -1,0 +1,14 @@
+terminal => CLI which allow you to interact with you operating system without gui
+   - receive text based commands
+   - allow to run shell scripts 
+   - manage files
+process =>
+streams => stdin, stdout, stderr
+piping =>
+what is exit from process
+redirection =>
+dependencies =>
+what is jsr:@std/ (package means)
+what is wild cards
+parsing means in different context =>
+what is snippets =>   

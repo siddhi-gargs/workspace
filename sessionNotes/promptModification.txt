@@ -1,0 +1,12 @@
+PS4 => contain noOfcommands executed after launching a particular session
+PS2 => >
+format is like 
+%d% => open and close by (%) [d - directory]
+%m% => host name 
+%n% => userName
+escape => -e "\e[34mwhich color[0m" => voilet [35 => pink], [36 => cyan]
+local for varibale in zsh
+search=${@:1}
+
+if (${a:1} === "-gpt") then 
+

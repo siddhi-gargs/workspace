@@ -1,0 +1,20 @@
+process => instance of being executed of a program
+
+command for interact with process on terminal => 
+  - (ps) current running process it will show
+  - (kill) kill take pid and can terminate 
+    - for deno zsh launch a process we can kill it from another tab
+  - (top) => show the dynamic view of running process
+    - show real time process of running process and usage of resources
+  - (pstree) => show running process in a tree structure and show parent-child relationship
+
+streams => 
+    stdin
+      - keyboard is default source of input for commands and program
+      - it can aslo except data from files or command same with piping and redirection
+    stdOut 
+      - default desination of going output from command and program. displau result of executed command
+      - default it send output to terminal we can redirect it by redirection operator and through piping
+    stdErr 
+      - its used for reporting error without interfacing to normal output
+      - by default it also go to terminal but we can redirect it with "2>"

@@ -1,0 +1,6 @@
+// function processingTime(a) {
+//   let times = a * 1000000000;
+//   while (times) {
+//     times--;
+//   }
+// }
